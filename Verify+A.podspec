@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.name         = "Verify+A"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "业务组件A"
   s.homepage     = "https://github.com/ApterKingRepo/Verify-A"
 
